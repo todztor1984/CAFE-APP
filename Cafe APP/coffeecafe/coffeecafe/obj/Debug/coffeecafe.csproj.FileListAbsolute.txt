@@ -1,0 +1,10 @@
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\bin\Debug\coffeecafe.exe.config
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\bin\Debug\coffeecafe.exe
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\bin\Debug\coffeecafe.pdb
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.csprojAssemblyReference.cache
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.Form1.resources
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.Form2.resources
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.Properties.Resources.resources
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.csproj.GenerateResource.cache
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.exe
+C:\Users\WINDOWS10\Desktop\Cafe\coffeecafe\coffeecafe\obj\Debug\coffeecafe.pdb
